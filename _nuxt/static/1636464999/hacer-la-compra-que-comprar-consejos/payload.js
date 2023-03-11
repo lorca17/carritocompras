@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/hacer-la-compra-que-comprar-consejos", {data:[{}],fetch:{},mutations:void 0});

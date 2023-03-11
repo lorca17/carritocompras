@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/plegable", {data:[{}],fetch:{},mutations:void 0});

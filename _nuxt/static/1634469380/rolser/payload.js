@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/rolser", {data:[{}],fetch:{},mutations:void 0});
